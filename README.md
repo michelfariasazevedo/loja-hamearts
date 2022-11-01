@@ -1,6 +1,6 @@
 ### 📂 Projeto: Hamearts Artezanato e Decoração
 #### Categoria: Loja Virtual (Catálogo On-line)
-Site comercial, desenvolvido para empresa de limpeza e faxina, totalmente personalizado, leve e responsivo.
+Catálogo on-line, desenvolvido para empresa de artezanato e decoração, totalmente personalizado, leve e responsivo.
 O layout do tema se adapta perfeitamente em diversos dispositivos móveis e navegadores.
 
 🔗 https://michelfariasazevedo.github.io/loja-hamearts/
